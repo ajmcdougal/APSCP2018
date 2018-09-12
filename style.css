@@ -1,0 +1,39 @@
+body {
+    background-color: #a4d9f4;
+    font-family: arial;
+    padding: 10px;
+}
+
+h1 {
+    background-color: #ffffff;
+    Font-size: 50px;
+    padding: 10px;
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-radius: 20px;
+}
+
+p {
+    background-color: #ffffff;
+    margin: 5%;
+    padding: 2%;
+    border-radius: 8px;
+    text-indent: 50px;
+}
+
+.toplink {
+    background-color: #ffffff;
+    padding: 4px;
+    margin: 5px auto 0 auto; 
+    color: #000000;
+    text-decoration: none;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+    margin: auto;
+    width: 50%;
+}
