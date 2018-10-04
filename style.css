@@ -20,6 +20,7 @@ p {
     padding: 2%;
     border-radius: 8px;
     text-indent: 50px;
+    text-align: left;
 }
 
 .toplink {
